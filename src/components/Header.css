@@ -1,0 +1,39 @@
+
+
+#Header {
+    font-family: 'Telegraf';
+    display: flex; 
+    align-items:center;
+    margin:50px;
+    padding:20px;
+    border: thin solid black;
+}
+
+#portrait {
+    width:500px;
+    height:500px;
+    margin-right:50px;
+    border: thin solid black;
+}
+
+.marker {
+    display:flex;
+    justify-content: space-between;
+    align-items:center;
+    width: 300px;
+}
+
+.fullwidth{
+    width: 100%;
+}
+
+ul {
+    font-size:30px;
+    padding-bottom: 0;
+    padding-top: 0;
+}
+
+li {
+    padding: 5px;
+}
+

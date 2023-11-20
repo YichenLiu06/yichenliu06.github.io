@@ -6,8 +6,10 @@
 body {
   margin: 0;
   padding: 0;
+  color: white;
   font-family: 'Telegraf';
-  background-image: url("./assets/background.jpg");
+  background-color: black;
+
 }
 
 code {
@@ -20,24 +22,33 @@ code {
   flex-direction:column;
 }
 
-
-
 .row {
   display:flex;
   flex-direction: row;
   align-items:center;
 }
 
+.wrap {
+  display:flex;
+  flex-wrap: wrap;
+}
+
 h1 {
-  font-size: 150px;
+  font-size: 100px;
   padding: 0;
   margin: 0;
 }
 
 h2 {
-  font-size:40px;
+  font-size:60px;
   padding: 0;
   margin: 0;
+}
+
+h3 {
+  font-size:40px;
+  padding:0;
+  margin:0;
 }
 
 p {

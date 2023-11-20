@@ -6,14 +6,14 @@
     align-items:center;
     margin:50px;
     padding:20px;
-    border: thin solid black;
+    border: thin solid white;
 }
 
 #portrait {
     width:500px;
     height:500px;
     margin-right:50px;
-    border: thin solid black;
+    border: thin solid white;
 }
 
 .marker {

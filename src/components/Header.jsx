@@ -7,11 +7,11 @@ function Header(props){
             <div className = "column">
                 <h2>Yichen Liu</h2>
                 <div className = "row">
-                    <img id = "portrait" src={portrait}/>
+                    <img id = "portrait" src={portrait} alt="portrait"/>
                     <div className = "column">
                         <h1> Hello, </h1>
                         <h2> welcome to my website. Take a look around.</h2>
-                        <ul>
+                        <ul className = "column">
                             <li> 
                                 <div className = "marker">
                                     Home <p>1</p>

@@ -1,0 +1,35 @@
+#Projects {
+    margin:50px;
+    padding:20px;
+    border: thin solid white;
+}
+
+#ProjectContainer{
+    margin: 20px 50px 20px 50px;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.project {
+    padding: 20px;
+    align-items: center;
+    max-width: 400px;
+    text-align: center;
+}
+
+.projecticon {
+    width: 300px;
+    height:200px;
+    border-radius: 20px;
+    object-fit: cover;
+}
+
+.projecttitle {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.projectdescription {
+    font-size: 20px;
+}

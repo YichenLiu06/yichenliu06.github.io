@@ -3,7 +3,6 @@
 #Header {
     font-family: 'Telegraf';
     display: flex; 
-    align-items:center;
     margin:50px;
     padding:20px;
     border: thin solid white;
